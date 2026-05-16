@@ -34,8 +34,6 @@ Expense-Claim-Processing-System/
 ├── frontend/
 ├── backend/
 ├── database/
-├── uploads/
-├── screenshots/
 ├── README.md
 ├── package.json
 └── requirements.txt
